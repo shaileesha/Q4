@@ -1,3 +1,4 @@
 This is file B.
 Line 2 for file B.
 line 3 ADDED
+line 4

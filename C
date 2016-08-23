@@ -1,2 +1,3 @@
 new file C
 trying the fetch command.
+new line
